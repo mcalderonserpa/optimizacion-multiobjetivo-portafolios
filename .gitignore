@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Generated figures and temporary files
+results/*.png
+results/*.jpg
+
+# Operating system files
+.DS_Store
+Thumbs.db
